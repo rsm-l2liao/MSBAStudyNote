@@ -20,10 +20,10 @@ It is designed to help me review and consolidate what I’ve learned, while also
 
 
 
-* Build a solid foundation in data analysis 打好数据分析基础
-* Document key concepts, code examples, and workflows 记录核心概念、代码示例和分析流程
-* Practice thinking in both English and Chinese 训练中英文双语思维
-* Create a structured and reusable knowledge base 构建可复用的知识体系
+* Build a solid foundation in data analysis | 打好数据分析基础
+* Document key concepts, code examples, and workflows | 记录核心概念、代码示例和分析流程
+* Practice thinking in both English and Chinese | 训练中英文双语思维
+* Create a structured and reusable knowledge base | 构建可复用的知识体系
 
 ---
 
@@ -31,17 +31,11 @@ It is designed to help me review and consolidate what I’ve learned, while also
 
 
 
-* Python basics (data structures, loops, functions)
-* SQL fundamentals (SELECT, JOIN, etc.)
-* Data analysis workflows
-* Notes and summaries from learning materials
+* Python basics (data structures, loops, functions) | Python基础（数据结构、循环、函数等）
+* SQL fundamentals (SELECT, JOIN, etc.) | SQL基础（查询、连接等）
+* Data analysis workflows | 数据分析流程
+* Notes and summaries from learning materials | 学习资料总结与笔记
 
-
-
-* Python基础（数据结构、循环、函数等）
-* SQL基础（查询、连接等）
-* 数据分析流程
-* 学习资料总结与笔记
 
 ---
 
@@ -49,30 +43,20 @@ It is designed to help me review and consolidate what I’ve learned, while also
 
 
 
-* Beginners in data analysis
-* Students learning Python / SQL
-* Anyone interested in bilingual learning
+* Beginners in data analysis | 数据分析初学者
+* Students learning Python / SQL | 正在学习 Python / SQL 的同学
+* Anyone interested in bilingual learning | 希望用双语学习的人
 
-
-* 数据分析初学者
-* 正在学习 Python / SQL 的同学
-* 希望用双语学习的人
 
 ---
 
 ## Future Plans | 后续计划
 
 
-* Add more structured notebooks
-* Include real-world data projects
-* Improve explanations and examples
-* Build a complete learning roadmap
-
-
-* 增加更系统化的 Notebook
-* 加入真实数据项目
-* 优化讲解和示例
-* 构建完整学习路径
+* Add more structured notebooks | 增加更系统化的 Notebook
+* Include real-world data projects | 加入真实数据项目
+* Improve explanations and examples | 优化讲解和示例
+* Build a complete learning roadmap | 构建完整学习路径
 
 ---
 
